@@ -125,6 +125,7 @@ export default function Footer() {
               </li>
               <li>Phone: +86 17065985641</li>
               <li>Email: regalacy40060@outlook.com</li>
+              <li>Contact Person: ZhongSheng Lv</li>
             </ul>
           </div>
         </div>
